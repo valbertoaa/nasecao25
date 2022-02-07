@@ -1,4 +1,4 @@
-package br.com.essencial.aula01;
+package br.com.essencial.nasecao25;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
